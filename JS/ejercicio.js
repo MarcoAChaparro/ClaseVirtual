@@ -1,0 +1,1 @@
+//html y java donde tomen 3 numeros le diga al usuario cual es el menor y si de esos tres numeros 2 son iguales decir cual numero es igual. se debe de hacer con ternarios, funcion flechas y si pueden con promesas.
